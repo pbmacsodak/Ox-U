@@ -1,8 +1,8 @@
 # Ox University
 
-#(OxU)
+# (OxU)
 
-***From the strength of an ox come abundant harvests. Proverbs 14:4b***
+## From the strength of an ox come abundant harvests. Proverbs 14:4b
 
 **Goals**
 =========
