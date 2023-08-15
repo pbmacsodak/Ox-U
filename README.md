@@ -20,9 +20,9 @@ Train up people and leaders that will:
 OxU Culture
 ===========
 
--   Intense prayer and warring for the kingdom
+-   **Intense prayer and warring for the kingdom**
 
-    -   Every semester -- this is stressed, taught and applied
+    -   This is constantly taught. stressed, and applied
     -   Prayer -- daily personal time, frequent corporate prayer
         gatherings and praying on the streets for all peoples
     -   Frequent times of corporate warring for children, families,
@@ -61,7 +61,7 @@ OxU Culture
 Curriculum/courses
 ==================
 
--   **Newbies** -- these would be new students within ICA, not new
+-   **[Newbies](Docs/Newbie.md)** -- these would be new students within ICA, not new
     students within OxU. These are not requirements for OxU students.
     They are included here so there is a pathway to move from being a
     part of ICA to be a student at OxU
