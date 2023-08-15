@@ -1,10 +1,9 @@
 # Ox University
-
 # (OxU)
 
 ## From the strength of an ox come abundant harvests. Proverbs 14:4b
 
-**Goals**
+Goals
 =========
 
 Train up people and leaders that will:
@@ -97,7 +96,7 @@ Curriculum/courses
     -   As businesses sprout up from within ICA engage them to serve as
         places of learning and serving as well as income for the owners.
 
--   Outreach
+-   **Outreach**
 
     -   OxU students will be required to participate in a specific
         number of hours performing outreach, and a certain number of
@@ -110,7 +109,7 @@ Curriculum/courses
             win souls
         -   Various other outreach opportunities.
 
--   Bible Study
+-   **Bible Study**
 
     -   There will be Bible studies going on constantly. Students will
         be required to be engaged in at least one study opportunity at
@@ -118,6 +117,6 @@ Curriculum/courses
     -   Bible verse memorization. There will be mandatory weekly Bible
         verse memorization for all OxU students.
 
--   Courses
+-   **Courses**
 
     -   The specifics of the courses to be offered is under development
