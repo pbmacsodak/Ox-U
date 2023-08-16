@@ -75,6 +75,8 @@ Curriculum/courses
         -   Clear up DMV issues, obtain driver\'s license.
         -   Address family/parenting issues
         -   Personal deliverance
+        
+    - Individuals new to ICA will be allowed **3 months** (subject to change) to settle in to the routine. At that time, they will be expected to start working through [certain requirements](Docs/Newbie.md) which are part of their daily personal time. 
 
 -   **Internships** -- will be used to put into practice the acts of
     serving and for students to gain experience by applying what they
