@@ -1,6 +1,6 @@
 
 # THE PRAYER HAND
-![Hand](./PrayerHand.png)
+![Hand](./Prayer-Hand.png)
 ```
 Many believers find extended time in
 prayer is a difficult spiritual discipline.
