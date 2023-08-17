@@ -1,3 +1,4 @@
+![Hand](./PrayerHand.png)
 # THE PRAYER HAND
 
 ```
