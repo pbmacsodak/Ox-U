@@ -1,6 +1,6 @@
-![Hand](./PrayerHand.png)
-# THE PRAYER HAND
 
+# THE PRAYER HAND
+![Hand](./PrayerHand.png)
 ```
 Many believers find extended time in
 prayer is a difficult spiritual discipline.
@@ -12,11 +12,10 @@ hearts with God’s, and as the fifth aspect
 explains below, praises to God should
 permeate every part.
 ```
-## 1
-
-## CONFESSION
-
-**I agree with God
+|## CONFESSION | ## Petition | ## INTERCESSION | ## THANKSGIVING | ## Praise |
+| :---         |  :---       |  :---           |  :---           |  :---     |
+ 
+|**I agree with God
 about my sin.**
 “If we confess our
 sins, he is faithful
@@ -24,26 +23,16 @@ and just and will
 forgive us our sins
 and purify us f rom all
 unrighteousness.”
-**_1 John 1:_**
+**_1 John 1:_** |
 
-## 2
-
-## PETITION
-
-```
 I ask God to provide
 for my needs.
 “I prayed for this child,
 and the Lord has
 granted me what I
 asked of him.”
-1 Samuel 1:
-```
-## 3
+1 Samuel 1: |
 
-## INTERCESSION
-
-```
 I ask God to provide
 for the needs of
 others.
@@ -62,13 +51,8 @@ be given me so that
 I will fearlessly make
 known the mystery
 of the gospel...”
-Ephesians 6:18-
-```
-## 4
+Ephesians 6:18- |
 
-## THANKSGIVING
-
-```
 I thank God for what
 He has done in,
 through, and for me.
@@ -84,13 +68,8 @@ thanks to God the
 Father for everything,
 in the name of our
 Lord Jesus Christ.”
-Ephesians 5:
-```
-## 5
+Ephesians 5: |
 
-## PRAISE
-
-```
 I let my enjoyment
 and adoration of
 God overflow into
@@ -107,7 +86,7 @@ soul. I will praise the
 Lord all my life; I will
 sing praise to my
 God as long as I live.”
-Psalm 146:1-
+Psalm 146:1-|
 ```
 ```
 THIS TOOL IS MEANT TO BE SHARED. To download a copy visit navlink.org/prayer-hand
