@@ -6,7 +6,7 @@
 Goals
 =========
 
-Train up people and leaders that will:
+Train up people and leaders who will:
 
 -   Transform communities
 
@@ -22,9 +22,9 @@ OxU Culture
 
 -   **Intense prayer and warring for the kingdom**
 
-    -   This is constantly taught. stressed, and applied
-    -   Prayer -- daily personal time, frequent corporate prayer
-        gatherings and praying on the streets for all peoples
+    -   This is a constant teaching. always prioroty, and applied daily
+    -   Prayer -- daily personal prayer time, frequent corporate prayer
+        gatherings as well as praying on the streets for all peoples
     -   Frequent times of corporate warring for children, families,
         marriages, those incarcerated, government, pastors, and movement
         of God.
