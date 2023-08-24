@@ -37,7 +37,7 @@ ________________________________              |
 JAMES 5                         |             |
 1 PETER 5                       |             |
 2 PETER 3                       | General     |
-1 «JOHN 5                       | Letters     |
+1 JOHN 5                       | Letters     |
 2 JOHN* 1                       | (7 Books)   |
 3 JOHN* 1                       |             |
 JUDE 1                          |             |
@@ -45,4 +45,5 @@ ________________________________|_____________|
 
 REVELATION 22                                 | Prophecy
                                                 (1 book)
+*Biblical writings addressed to an individual
 ```
