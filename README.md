@@ -58,13 +58,21 @@ OxU Culture
     -   Raised bed/intensive gardening
     -   Seed harvesting/storage
 
-Curriculum/courses
+Structure
 ==================
 
--   **[Newbies](Docs/Newbie.md)** -- these would be new students within ICA, not new
-    students within OxU. These are not requirements for OxU students.
-    They are included here so there is a pathway to move from being a
-    part of ICA to be a student at OxU
+-   **Bible Study**
+
+    -   There will be Bible studies going on constantly. ALL students, botjh ICA and OxU students, will
+        be required to be engaged in at least one study opportunity at
+        all times.
+    -   Bible verse memorization. There will be mandatory weekly Bible
+        verse memorization for all OxU students.
+
+-   **[ICA Students](Docs/Newbie.md)** -- these individuals are students within ICA, not
+    students at OxU. These are not requirements for OxU students.
+    These requirements are included here so there is a pathway to move from being a
+    student in ICA to be a student at OxU
 
     -   Learn and follow the foundations of walking with Christ
 
@@ -76,49 +84,47 @@ Curriculum/courses
         -   Address family/parenting issues
         -   Personal deliverance
         
-    - Individuals new to ICA will be allowed **3 months** (subject to change) to settle in to the routine. At that time, they will be expected to start working through [certain requirements](Docs/Newbie.md) which are part of their daily personal time. 
+    - Students in ICA will be allowed **3 months** (subject to change) to settle in to the routine. At that time, they will be expected to start working through [certain requirements](Docs/Newbie.md) which are part of their daily personal time.
 
--   **Internships** -- will be used to put into practice the acts of
+- **OxU Students** -- 
+
+    -   **Internships** -- will be used to put into practice the acts of
     serving and for students to gain experience by applying what they
     are learning.
 
-    -   Find Godly owned companies who are willing to work/support OxU
+        -   Find Godly owned companies who are willing to work/support OxU
 
-        -   Come along side and serve these companies
+            -   Come along side and serve these companies
 
-    -   Work with government agencies if possible
+        -   Work with government agencies if possible
 
-    -   Serve at the big ICA facility -- many opportunities will exist
+        -   Serve at the big ICA facility -- many opportunities will exist
 
-    -   Serve at various ICA access centers and events
+        -   Serve at various ICA access centers and events
 
-    -   US Foods -- dealing with the food could be an ongoing class
+        -   US Foods -- dealing with the food could be an ongoing class
         project -- different people each semester
 
-    -   As businesses sprout up from within ICA engage them to serve as
+        -   As businesses sprout up from within ICA engage them to serve as
         places of learning and serving as well as income for the owners.
 
--   **Outreach**
+    -   **Outreach**
 
-    -   OxU students will be required to participate in a specific
+        -   OxU students will be required to participate in a specific
         number of hours performing outreach, and a certain number of
         souls saved in order to graduate. There will be twice weekly
         opportunities to engage in outreach
 
-        -   Go out on the streets winning souls -- this is an imperative
+            -   Go out on the streets winning souls -- this is an imperative
             mission and will be required of ALL OxU students
-        -   "Saturday Class" -- special opportunities to serve and to
+            -   "Saturday Class" -- special opportunities to serve and to
             win souls
-        -   Various other outreach opportunities.
+            -   Various other outreach opportunities.
 
--   **Bible Study**
 
-    -   There will be Bible studies going on constantly. Students will
-        be required to be engaged in at least one study opportunity at
-        all times.
-    -   Bible verse memorization. There will be mandatory weekly Bible
-        verse memorization for all OxU students.
 
--   **Courses**
+Courses
+==================
+
 
     -   The specifics of the courses to be offered is under development
