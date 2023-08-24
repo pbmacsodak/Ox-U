@@ -62,7 +62,7 @@ ICA/OxU Structure
 
 -   **Bible Study**
 
-    -   Students will be required to memorize the books of the Bible, and repeat them in the correct order.
+    -   Students will be required to memorize the books of the Bible, [Old Testament](Files/OlTestamentBooks.md) and New Testament and be able recite them in the correct order.
     -   Students will be required to learn the sections of the Bible, and what those sections represent.
     -   There will be Bible studies going on constantly. **All** students, both ICA and OxU students, will
         be required to be engaged in at least one study opportunity at
