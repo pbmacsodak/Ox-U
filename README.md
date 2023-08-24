@@ -17,12 +17,11 @@ Train up people and leaders who will:
 
 -   Grow to love God -- heart soul mind
 
-OxU Culture
+ICA Culture
 ===========
 
--   **Intense prayer and warring for the kingdom**
-
-    -   This is a constant teaching. always prioroty, and applied daily
+-   **Intense prayer and warring for the kingdom** --  This is the constant teaching. always a prioroty, and applied daily
+  
     -   Prayer -- daily personal prayer time, frequent corporate prayer
         gatherings as well as praying on the streets for all peoples
     -   Frequent times of corporate warring for children, families,
@@ -58,7 +57,7 @@ OxU Culture
     -   Raised bed/intensive gardening
     -   Seed harvesting/storage
 
-Structure
+ICA/OxU Structure
 ==================
 
 -   **Bible Study**
@@ -69,7 +68,7 @@ Structure
     -   Bible verse memorization. There will be mandatory weekly Bible
         verse memorization for all OxU students.
 
--   **[ICA Students](Docs/Newbie.md)** -- these individuals are students within ICA, not
+-   **[ICA Students](Docs/ICA Student.md)** -- these individuals are students within ICA, not
     students at OxU. These are not requirements for OxU students.
     These requirements are included here so there is a pathway to move from being a
     student in ICA to be a student at OxU
@@ -84,7 +83,7 @@ Structure
         -   Address family/parenting issues
         -   Personal deliverance
         
-    - Students in ICA will be allowed **3 months** (subject to change) to settle in to the routine. At that time, they will be expected to start working through [certain requirements](Docs/Newbie.md) which are part of their daily personal time.
+    - Students in ICA will be allowed **3 months** (subject to change) to settle in to the routine. At that time, they will be expected to start working through [certain requirements](Docs/ICA Student.md) which are part of their daily personal time.
 
 - **OxU Students** -- 
 
