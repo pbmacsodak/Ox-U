@@ -45,5 +45,7 @@ ________________________________|_____________|
 
 REVELATION 22                                 | Prophecy
                                                 (1 book)
+
 *Biblical writings addressed to an individual
+
 ```
