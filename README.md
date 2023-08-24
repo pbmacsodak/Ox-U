@@ -68,7 +68,7 @@ ICA/OxU Structure
     -   Bible verse memorization. There will be mandatory weekly Bible
         verse memorization for all OxU students.
 
--   **[ICA Students](Docs/ICA Student.md)** -- these individuals are students within ICA, not
+-   **[ICA Students](Docs/ICA_Student.md)** -- these individuals are students within ICA, not
     students at OxU. These are not requirements for OxU students.
     These requirements are included here so there is a pathway to move from being a
     student in ICA to be a student at OxU
@@ -83,7 +83,7 @@ ICA/OxU Structure
         -   Address family/parenting issues
         -   Personal deliverance
         
-    - Students in ICA will be allowed **3 months** (subject to change) to settle in to the routine. At that time, they will be expected to start working through [certain requirements](Docs/ICA Student.md) which are part of their daily personal time.
+    - Students in ICA will be allowed **3 months** (subject to change) to settle in to the routine. At that time, they will be expected to start working through [certain requirements](Docs/ICA_Student.md) which are part of their daily personal time.
 
 - **OxU Students** -- 
 
