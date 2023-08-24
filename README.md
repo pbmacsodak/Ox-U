@@ -62,11 +62,15 @@ ICA/OxU Structure
 
 -   **Bible Study**
 
-    -   There will be Bible studies going on constantly. ALL students, botjh ICA and OxU students, will
+    -   Students will be required to memorize the books of the Bible, and repeat them in the correct order.
+    -   Students will be required to learn the sections of the Bible, and what those sections represent.
+    -   There will be Bible studies going on constantly. **All** students, both ICA and OxU students, will
         be required to be engaged in at least one study opportunity at
         all times.
     -   Bible verse memorization. There will be mandatory weekly Bible
-        verse memorization for all OxU students.
+        verse memorization for **ALL** students.
+        - To start, student will memorize the verses that are used in the Navigator's [Topical Memory System](https://www.navigators.org/resource/topical-memory-system/). To help, there is a [recommended process](https://www.navigators.org/resource/how-to-memorize-scripture/) to memorize scripture. Realize that scripture memorization is more than just remembering words, it is a great tool for personal spiritual growth, by committing God's word to memory.
+            - ***This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good succes. Joshua 1:8***
 
 -   **[ICA Students](Docs/ICA_Student.md)** -- these individuals are students within ICA, not
     students at OxU. These are not requirements for OxU students.
